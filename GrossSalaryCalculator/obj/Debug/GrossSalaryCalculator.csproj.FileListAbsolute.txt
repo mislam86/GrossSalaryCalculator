@@ -1,0 +1,9 @@
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\bin\Debug\GrossSalaryCalculator.exe.config
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\bin\Debug\GrossSalaryCalculator.exe
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\bin\Debug\GrossSalaryCalculator.pdb
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.csprojResolveAssemblyReference.cache
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.Form1.resources
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.Properties.Resources.resources
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.csproj.GenerateResource.Cache
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.exe
+E:\103407\02052015\GrossSalaryCalculator\GrossSalaryCalculator\obj\Debug\GrossSalaryCalculator.pdb
